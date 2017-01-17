@@ -1,2 +1,4 @@
 logdir/
 VCTK-Corpus/
+*.pyc
+
